@@ -235,4 +235,14 @@ footer {
     margin-top: 20px;
     padding: 0 100px;
   }
+
+  .events {
+    width: 100%;
+    padding: 175px 0;
+  }
+  
+  .event-proyect {
+    width: 100%;
+    padding: 150px 0;
+  }
 }
