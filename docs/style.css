@@ -73,7 +73,7 @@ header {
 
 .photo {
   margin-top: 250px;
-  width: 250px;
+  width: 150px;
   position: bottom;
 }
 
@@ -188,6 +188,7 @@ footer {
     position: absolute;
     top: 30px;
     left: 30px;
+    font-size: 5vmin;
   }
 
   .nav-links {
